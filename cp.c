@@ -12,7 +12,7 @@ for(i=0;i<30;i++){
 }
 n=n-pow(k,i-1);
  int c=1; 
-for(int j=i-1;j>=0;j--){ printf("%d\n %d\n",n,c);
+for(int j=i-1;j>=0;j--){ 
     while(n!=0){
         if(n<0){n=n+pow(k,j); c--; break;}
         n=n-pow(k,j);
