@@ -1,0 +1,17 @@
+h1{
+    color:rgb(53, 80, 192);
+    background-color:lightcoral;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+.js-result{
+    color: antiquewhite;
+}
+.js-moves{
+    color: aquamarine;
+}
+.js-score{
+    color:blanchedalmond
+}
